@@ -1,0 +1,14 @@
+body{
+    margin-left: 10%;
+    margin-right: 10%;
+    width:100%;
+}
+
+.navbar-brand text-center{
+    font-size: xx-large;
+}
+.col-md-12{
+    margin-left: auto;
+    padding: 25%
+}
+
