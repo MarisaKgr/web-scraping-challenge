@@ -8,4 +8,4 @@ bs4
 pandas
 splinter
 python>=3.10.0
-jupyter notebook
+
